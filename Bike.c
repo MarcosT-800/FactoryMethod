@@ -4,4 +4,5 @@ public class Bike : IFactory
     {
        Console.WriteLine($"Drive the Bike : {miles} km");
     }
+//Finalizando a implementação da classe Bike
 }
